@@ -1,5 +1,4 @@
 ![Aprendizado Por Projeto Integrado (1)](https://github.com/user-attachments/assets/9f28fe3d-6635-4eca-8655-17f9e63a8e02)
-![Aprendizado Por Projeto Integrado (1)](https://www.google.com/imgres?q=google&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F2f%2FGoogle_2015_logo.svg%2F800px-Google_2015_logo.svg.png&imgrefurl=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FGoogle&docid=4GTEQvnL43Q_mM&tbnid=deiiYuxGw0P5jM&vet=12ahUKEwiekIHU0qmPAxUxl5UCHZWlKu4QM3oECBMQAA..i&w=800&h=271&hcb=2&itg=1&ved=2ahUKEwiekIHU0qmPAxUxl5UCHZWlKu4QM3oECBMQAA).
 
 ![Badge Em Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento-badge)
 
